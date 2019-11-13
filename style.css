@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin: 3px;
+}
+
+table {
+    margin: 25px auto 25px auto;
+    border: solid 1px black;
+}
+
+#row-1 td {
+    border-top: solid 1px black;
+}
+
+#row-6 td {
+    border-top: solid 1px black;
+}
