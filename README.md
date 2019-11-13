@@ -1,6 +1,8 @@
 # Invoice Generator
 ## A super basic script that generates an HTML invoice for the past five days at an hourly rate for 8 hours per day.
 
+To use: Update your info in the HTML and JS files, then open the HTML file in a browser. Boom! 
+
 I made this for myself and figured I'd share. It works best for clients where you have a consistent number of hours and duties and generating individual invoices is tedious and you don't need advanced functionality of a time management system.
 
 Work descriptions can be hard-coded into the script.js file or you could store the descriptions in a JSON file and access them based on keys in the object. I might make this as a new feature in the future. Essentially the object could look like this:
